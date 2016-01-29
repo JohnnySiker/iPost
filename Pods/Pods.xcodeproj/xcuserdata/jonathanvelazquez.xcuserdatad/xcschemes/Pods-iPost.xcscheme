@@ -14,7 +14,7 @@
             buildForArchiving = "YES">
             <BuildableReference
                BuildableIdentifier = 'primary'
-               BlueprintIdentifier = '9C7C2A992F2A904FA4721A6D'
+               BlueprintIdentifier = 'F31FF521FA95223591A5A825'
                BlueprintName = 'Pods-iPost'
                ReferencedContainer = 'container:Pods.xcodeproj'
                BuildableName = 'Pods_iPost.framework'>

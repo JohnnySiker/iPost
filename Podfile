@@ -5,5 +5,6 @@ use_frameworks!
 
 target 'iPost' do
 pod 'Spring', :git => 'https://github.com/MengTo/Spring.git', :branch => 'swift2'
+pod 'Firebase', '>= 2.5.0'
 end
 
